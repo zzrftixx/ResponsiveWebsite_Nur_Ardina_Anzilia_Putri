@@ -19,7 +19,7 @@ Namun memiliki jiwa yang clingy di dalam nya
 - Pastikan check sampai habis setiap page nya
 - Jika Tidak Fitur Error buat Issues
 
-### Sedikit Tentang Bot
+### Sedikit Tentang Page ini
 - ✔️ | **Website Portfolio** 
 - ✔️ | **Hanya untuk seru seruan** 
 - ✔️ | **Responsive** 
